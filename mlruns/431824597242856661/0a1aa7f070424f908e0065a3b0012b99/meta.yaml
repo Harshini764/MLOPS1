@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/kali/MALLA%20REDDY%20clg/DAY-20%20MLops/mlops_project/mlruns/431824597242856661/0a1aa7f070424f908e0065a3b0012b99/artifacts
+end_time: 1753364036669
+entry_point_name: ''
+experiment_id: '431824597242856661'
+lifecycle_stage: active
+run_id: 0a1aa7f070424f908e0065a3b0012b99
+run_name: abrasive-hog-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753364027344
+status: 3
+tags: []
+user_id: Admin
